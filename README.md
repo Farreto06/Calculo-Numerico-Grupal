@@ -4,4 +4,3 @@
 <p>Roriguez Julio CI: @Yuli0Cesar</p>
 <p>Chirivella Luis CI: @</p>
 
-<img src="src/baner-edit.jpg" alt="banner">
